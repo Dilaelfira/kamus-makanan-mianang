@@ -1,1 +1,1 @@
-# kamus-makanan-mianang
+# kamus-makanan-minang
